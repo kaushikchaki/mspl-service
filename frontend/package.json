@@ -1,7 +1,7 @@
 {
   "name": "mspl-frontend",
   "version": "1.0.0",
-  "description": "MSPL Service - Frontend",
+  "description": "MSPL Service Frontend v2",
   "type": "module",
   "scripts": {
     "dev": "vite",
